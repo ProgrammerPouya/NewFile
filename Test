@@ -1,0 +1,4 @@
+// New Code, this is just a test to see if this works on the chrome book
+function myFunction(p1, p2) {
+    print("This is a test");              // The function returns the product of p1 and p2
+}
